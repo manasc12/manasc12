@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Manas Chhotray</h1>
-<h4 align="center">I am a passionate Data Scientist / ML Engineer with over 3.5 years of experience at Continental AG, specializing in sensor analytics, machine learning, and Production-grade AI systems. I work with modern tools like Python, LangChain, LangGraph, LLM, Vector Database, RAG, MCP and APIs to build efficient AI ML pipelines and workflows in the Cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
+<h4 align="center">I am a passionate Data Scientist / ML Engineer with over 3.5 years of experience at Continental AG, specializing in sensor analytics, machine learning, and Production-grade Agentic AI systems. I work with modern tools like Python, LangChain, LangGraph, LLM, Vector Database, RAG, MCP and APIs to build efficient AI ML pipelines and workflows in the Cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
